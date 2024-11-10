@@ -15,6 +15,14 @@
       "dismissible": true,
       "timestamp": 1700791126,
       "enabled": true
+    },
+    {
+      "text": "We're about to drop support for legacy Sonarr and Radarr versions (prior to v3). If you're still using those legacy versions, please consider upgrading ASAP.",
+      "link": "",
+      "hash": "",
+      "dismissible": true,
+      "timestamp": 1731247748,
+      "enabled": true
     }
   ]
 }
