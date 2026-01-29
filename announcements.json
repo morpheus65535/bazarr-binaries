@@ -23,6 +23,14 @@
       "dismissible": true,
       "timestamp": 1731247748,
       "enabled": true
+    },
+    {
+      "text": "OpenSubtitles.org is finally shutting down for all users. If you’re still using it, you should consider disabling it and moving to OpenSubtitles.com. It will be removed from future Bazarr releases.",
+      "link": "https://forum.opensubtitles.org/viewtopic.php?t=19471",
+      "hash": "",
+      "dismissible": true,
+      "timestamp": 1769685499,
+      "enabled": true
     }
   ]
 }
