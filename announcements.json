@@ -31,6 +31,14 @@
       "dismissible": true,
       "timestamp": 1769802583,
       "enabled": true
+    },
+    {
+      "text": "Animetosho is shutting down for all users. If you’re still using it, you should consider disabling it, as currently there is no other anime dedicated provider. It will be removed from future Bazarr releases.",
+      "link": "https://animetosho.org/about/shutdown2",
+      "hash": "",
+      "dismissible": true,
+      "timestamp": 1779855704,
+      "enabled": true
     }
   ]
 }
