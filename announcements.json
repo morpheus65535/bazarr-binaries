@@ -39,6 +39,13 @@
       "dismissible": true,
       "timestamp": 1779855704,
       "enabled": true
+    },
+    {
+      "text": "Starting with Bazarr 1.6.3-beta.16, you can now create enhanced languages profiles to handle complex logic. Be aware that you cannot create basic languages profiles anymore, and we'll be upgrading your existing basic languages profiles soon.",
+      "link": "",
+      "dismissible": true,
+      "timestamp": 1792339921,
+      "enabled": true
     }
   ]
 }
